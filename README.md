@@ -8,7 +8,7 @@ for ios test, a very basic demo game made by RPG Maker MV
 [RPGEmu](https://apps.apple.com/us/app/id6747655400)
 
 # How to test?
-first, download the [game zip file](https://github.com/gzqyl/rpgemu/releases/download/test/rpgdemo.zip)\
+first, download the [game zip file](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip)\
 second, after you download it from safari, it will be located in your Files App\
 third, open RPGEmu, select file, select the zip\
 Now you could play the game on your iPhone or iPad
