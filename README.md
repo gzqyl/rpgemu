@@ -1,11 +1,19 @@
-# rpgemu
-for ios test, a very basic demo game made by RPG Maker MV
+# License Statements For The Project
 
-# APP ID
-6747655400
+[rpgemu](https://github.com/gzqyl/rpgemu) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International 
 
-# APP Link on AppStore will be:
-[RPGEmu](https://apps.apple.com/us/app/id6747655400)
+# This Project Could generate a RPG Maker MV ROM File in zip format, For Testing "RPGEmu for RPG Maker MV" Only, short name is "RPGEmu"
+
+The RPGEmu Once is Published, the install link should be [RPGEmu](https://apps.apple.com/us/app/id6747655400)
+
+The App ID is "6747655400"
+
+# DOWNLoad ROM FILE IS [game zip file](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip)
+[demo.zip](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip) © 2025 by [Ping Yan](https://www.soulyin.com/) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
+
+# For License Documents, you could get it here [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)
+
+
 
 # How to test?
 first, download the [game zip file](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip)\
