@@ -16,7 +16,7 @@ The App ID is "6747655400"
 
 
 # How to test?
-first, download the [game zip file](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip)\
+first, download the [demo.zip](https://github.com/gzqyl/rpgemu/releases/download/test/demo.zip)\
 second, after you download it from safari, it will be located in your Files App\
 third, open RPGEmu, select file, select the zip\
 Now you could play the game on your iPhone or iPad
